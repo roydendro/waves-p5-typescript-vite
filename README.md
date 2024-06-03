@@ -10,7 +10,7 @@ Enabled linting using ESLint and formatting using Prettier.
 
 Visit the project at https://waves.roydendro.com
 
-Was inspired by the article by [Hannah Yan Hansson](https://medium.com/@yanhann10/drawing-waves-with-p5-js-444f447bdc39).
+Was inspired by the article by [Hannah Yan Hansson](https://medium.com/@yanhann10/drawing-waves-with-p5-js-444f447bdc39). First experiment using perlin noise for rendering semi random shapes.
 
 ## Getting Started
 
@@ -25,3 +25,4 @@ npm run dev
 ## Notes and caveats
 
 -   Formatting and linting using Prettier and ESLint are not automatically executed before pushing or during the GitHub Actions workflow.
+-   I think the results from the mentioned article are much nicer, but didn't want to resort to duplicating the code exactly.
